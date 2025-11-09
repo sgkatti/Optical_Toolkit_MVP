@@ -1,0 +1,17 @@
+{
+  "time_summary": {
+    "start": null,
+    "end": null,
+    "count": 0
+  },
+  "kpis": [
+    "osnr",
+    "pre_fec_ber",
+    "post_fec_ber",
+    "qfactor",
+    "cd",
+    "rx_power"
+  ],
+  "missing_per_group": [],
+  "alerts_count": 14038
+}

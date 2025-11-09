@@ -1,0 +1,15 @@
+2025-11-09 19:00:25,633 INFO Starting Optical Telemetry Analyzer MVP
+2025-11-09 19:00:25,633 INFO Found 7 CSV files
+2025-11-09 19:00:36,183 INFO Rows loaded: 344244
+2025-11-09 19:00:42,352 INFO KPIs detected: ['osnr', 'pre_fec_ber', 'post_fec_ber', 'qfactor', 'cd', 'rx_power']
+2025-11-09 19:00:47,124 INFO Outputs written to /workspaces/Optical_Toolkit_MVP/output_test
+2025-11-09 19:06:20,481 INFO Starting Optical Telemetry Analyzer MVP
+2025-11-09 19:06:20,481 INFO Found 7 CSV files
+2025-11-09 19:06:30,173 INFO Rows loaded: 344244
+2025-11-09 19:06:36,055 INFO KPIs detected: ['osnr', 'pre_fec_ber', 'post_fec_ber', 'qfactor', 'cd', 'rx_power']
+2025-11-09 19:06:59,743 INFO Outputs written to /workspaces/Optical_Toolkit_MVP/output_test
+2025-11-09 19:11:29,454 INFO Starting Optical Telemetry Analyzer MVP
+2025-11-09 19:11:29,454 INFO Found 7 CSV files
+2025-11-09 19:11:39,359 INFO Rows loaded: 344244
+2025-11-09 19:11:45,374 INFO KPIs detected: ['osnr', 'pre_fec_ber', 'post_fec_ber', 'qfactor', 'cd', 'rx_power']
+2025-11-09 19:12:08,925 INFO Outputs written to /workspaces/Optical_Toolkit_MVP/output_test
